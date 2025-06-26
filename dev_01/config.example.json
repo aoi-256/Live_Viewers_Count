@@ -1,0 +1,8 @@
+{
+    "youtube_api_key": "YOUR_YOUTUBE_API_KEY_HERE",
+    "twitch_client_id": "YOUR_TWITCH_CLIENT_ID_HERE",
+    "twitch_access_token": "YOUR_TWITCH_ACCESS_TOKEN_HERE",
+    "input_file": "input_streams.csv",
+    "output_file": "viewer_count_log.csv",
+    "interval_seconds": 60
+}
