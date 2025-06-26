@@ -1,6 +1,9 @@
 """
 Live Viewers Count Monitor
 YouTube と Twitch の同時接続数をリアルタイムで取得・記録するプログラム
+
+MIT License
+Copyright (c) 2025 [aoi-256]
 """
 
 import csv
